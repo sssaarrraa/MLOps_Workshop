@@ -14,3 +14,4 @@ scoringTimeoutMs: 1000
 maxConcurrentRequestsPerContainer: 2
 maxQueueWaitMs: 1000
 sslEnabled: False
+    
